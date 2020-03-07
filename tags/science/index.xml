@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on </title>
+    <link>https://khangt1k25.github.io/tags/science/</link>
+    <description>Recent content in Science on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 07 Mar 2020 20:05:20 +0700</lastBuildDate>
+    
+	<atom:link href="https://khangt1k25.github.io/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Six degrees of Separation</title>
+      <link>https://khangt1k25.github.io/six-degrees-of-separation/</link>
+      <pubDate>Sat, 07 Mar 2020 20:05:20 +0700</pubDate>
+      
+      <guid>https://khangt1k25.github.io/six-degrees-of-separation/</guid>
+      <description>Erdos graph từ toán rời rạc Mình mới học toán rời rạc kì trước, có một ví dụ rất hay của thầy về đồ thị Erdos như thế này.
+Mỗi người xem như là một đỉnh đồ thị, giữa hai người có cạnh nối khi hai người có bài báo chung. Ta coi Erdor xem như là gốc, thì lớp người có bài báo chung với ông sẽ là lớp đầu tiên, tiếp đến lớp thứ 2 sẽ là người có bài báo chung với những người ở lớp đầu, tất nhiên là trừ những người đã liệt kê trước, và cứ thế sẽ có đồ thị Erdor.</description>
+    </item>
+    
+  </channel>
+</rss>
