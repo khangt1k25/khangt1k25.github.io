@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science on </title>
@@ -6,13 +6,17 @@
     <description>Recent content in Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Mar 2020 20:05:20 +0700</lastBuildDate><atom:link href="https://khangt1k25.github.io/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Mar 2020 20:05:20 +0700</lastBuildDate>
+    
+	<atom:link href="https://khangt1k25.github.io/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Six degrees of Separation</title>
-      <link>https://khangt1k25.github.io/six-degrees-of-separation/</link>
+      <link>https://khangt1k25.github.io/posts/story/6degreesofseparation/</link>
       <pubDate>Sat, 07 Mar 2020 20:05:20 +0700</pubDate>
       
-      <guid>https://khangt1k25.github.io/six-degrees-of-separation/</guid>
+      <guid>https://khangt1k25.github.io/posts/story/6degreesofseparation/</guid>
       <description>Từ Covid 19 Đang trong mùa dịch Covid-19 căng thẳng, hôm qua thì đùng cái Hà Nội thông báo có người nhiễm. Thế mới thấy, dù cả cộng đồng chung tay dập dịch nhưng sai sót chủ quan của mọi người vẫn xảy ra. Mình có câu hỏi như này, là tại sao bệnh dịch lại lây lan nhanh, khó kiểm soát và cách nó diễn biến theo quy luật nào?</description>
     </item>
     

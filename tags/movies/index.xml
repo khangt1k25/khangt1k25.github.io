@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Movies on </title>
@@ -6,13 +6,17 @@
     <description>Recent content in Movies on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 26 Jul 2020 16:49:02 +0700</lastBuildDate><atom:link href="https://khangt1k25.github.io/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2020 16:49:02 +0700</lastBuildDate>
+    
+	<atom:link href="https://khangt1k25.github.io/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Michael Scofield - An unreal genius</title>
-      <link>https://khangt1k25.github.io/michael-scofield-an-unreal-genius/</link>
+      <link>https://khangt1k25.github.io/posts/story/michaelscofield/</link>
       <pubDate>Sun, 26 Jul 2020 16:49:02 +0700</pubDate>
       
-      <guid>https://khangt1k25.github.io/michael-scofield-an-unreal-genius/</guid>
+      <guid>https://khangt1k25.github.io/posts/story/michaelscofield/</guid>
       <description>Khi mình còn nhỏ, những bộ phim VTV phát vào khung giờ 6h hay 22h là cả một kí ức. Vượt ngục cũng vậy. Nhưng khi đó thực sự chỉ là một ít chi tiết và sự ấn tượng về Michael Scofield. Suốt mấy năm trời, mình không có hứng thú về phim vì nghĩ không thu được nhiều từ phim; nhưng khi đến mùa hè ở nhà và chưa biết làm gì thì việc đầu tiên là xem phim.</description>
     </item>
     
