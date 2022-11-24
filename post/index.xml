@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
@@ -6,14 +6,27 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 26 Jul 2020 16:49:02 +0700</lastBuildDate><atom:link href="https://khangt1k25.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 21:16:51 +0700</lastBuildDate>
+    
+	<atom:link href="https://khangt1k25.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>api gateway ep1</title>
+      <link>https://khangt1k25.github.io/api-gateway-ep1/</link>
+      <pubDate>Thu, 24 Nov 2022 21:16:51 +0700</pubDate>
+      
+      <guid>https://khangt1k25.github.io/api-gateway-ep1/</guid>
+      <description>The begin Chào mọi người. Mình là Khang và đây là trang blog mình viết một vài thứ. Hiện mình đang làm tại một công ty công nghệ trong lĩnh vực tài chính. Sở thích là tìm hiểu và ứng dụng những công nghệ vào thực tế. Công việc mình làm đang cần tìm hiểu và sử dụng về stack AWS. Mình nghĩ thật tốt khi có thể sử dụng blog để thuận tiện công việc tim hiểu hơn, cũng như có một hành trình thú vị và chia sẻ với mọi người.</description>
+    </item>
+    
     <item>
       <title>29 tháng 2</title>
       <link>https://khangt1k25.github.io/29-th%C3%A1ng-2/</link>
       <pubDate>Sat, 29 Feb 2020 11:23:47 +0700</pubDate>
       
       <guid>https://khangt1k25.github.io/29-th%C3%A1ng-2/</guid>
-      <description>29/2/2020 A few days ago, i thought about the future. A few weeks ago, i also thought about the future. A few months ago, i had same things. But today, i have thought that why i haven&amp;rsquo;t paid attention to my present, about some things i am really interested in. I have recently watched &amp;lsquo;3 idiots&amp;rsquo; again, i have realized that i felt some kinds of fear as Raju Rastogi. The more things i overthink, the more fear i have.</description>
+      <description>29/2/2020 A few days ago, i thought about the future. A few weeks ago, i also thought about the future. A few months ago, i had same things. But today, i have thought that why i haven&amp;rsquo;t paid attention to my present, about some things i am really interested in. I have recently watched &amp;lsquo;3 idiots&amp;rsquo; again, i have realized that i felt some kinds of fear as Raju Rastogi.</description>
     </item>
     
     <item>
@@ -23,15 +36,15 @@
       
       <guid>https://khangt1k25.github.io/etihad-%C4%91%C3%AAm-bu%E1%BB%93n/</guid>
       <description>Etihad đêm buồn Premier League năm ấy, đứa trẻ đã òa khóc khi trước mắt là điều tội tệ nhất của cậu.
-2011/2012 mùa năm đó Man City lên ngôi vương giải đấu cao nhất nước Anh. Thành thực mà nói kí ức cảm xúc nhất của tôi, là một fan Man đỏ lại chính là những trận đấu vòng đấu cuối. Mùa giải năm đó, nhà đài còn phát sóng ngoại hạng ở truyền hình cáp, tôi may mắn có cơ hội xem trọn vẹn.</description>
+2011&amp;frasl;2012 mùa năm đó Man City lên ngôi vương giải đấu cao nhất nước Anh. Thành thực mà nói kí ức cảm xúc nhất của tôi, là một fan Man đỏ lại chính là những trận đấu vòng đấu cuối. Mùa giải năm đó, nhà đài còn phát sóng ngoại hạng ở truyền hình cáp, tôi may mắn có cơ hội xem trọn vẹn.</description>
     </item>
     
     <item>
       <title>Michael Scofield - An unreal genius</title>
-      <link>https://khangt1k25.github.io/michael-scofield-an-unreal-genius/</link>
+      <link>https://khangt1k25.github.io/michael-scofield---an-unreal-genius/</link>
       <pubDate>Sun, 26 Jul 2020 16:49:02 +0700</pubDate>
       
-      <guid>https://khangt1k25.github.io/michael-scofield-an-unreal-genius/</guid>
+      <guid>https://khangt1k25.github.io/michael-scofield---an-unreal-genius/</guid>
       <description>Khi mình còn nhỏ, những bộ phim VTV phát vào khung giờ 6h hay 22h là cả một kí ức. Vượt ngục cũng vậy. Nhưng khi đó thực sự chỉ là một ít chi tiết và sự ấn tượng về Michael Scofield. Suốt mấy năm trời, mình không có hứng thú về phim vì nghĩ không thu được nhiều từ phim; nhưng khi đến mùa hè ở nhà và chưa biết làm gì thì việc đầu tiên là xem phim.</description>
     </item>
     
@@ -41,7 +54,7 @@
       <pubDate>Sat, 04 Jul 2020 19:37:09 +0700</pubDate>
       
       <guid>https://khangt1k25.github.io/the-premier-league/</guid>
-      <description>Nhà vô địch Các Liverpudlian là những người hạnh phúc nhất trong tuần vừa rồi. Đội bóng của họ vừa dành chức vô địch ngoại hạng anh mùa 19/20 sớm trước tận 7 vòng đấu, một kỉ lục của giải đấu. Ngoại hạng anh là một giải đấu lớn, hấp dẫn nhất trong số những giải đấu hấp dẫn. Việc Liverpool thống trị tuyệt đối mùa giải vừa rồi, hay Man Utd mùa 98/99 có là minh chứng cho việc giải đấu tẻ nhạt, dễ đoán định.</description>
+      <description>Nhà vô địch Các Liverpudlian là những người hạnh phúc nhất trong tuần vừa rồi. Đội bóng của họ vừa dành chức vô địch ngoại hạng anh mùa 19&amp;frasl;20 sớm trước tận 7 vòng đấu, một kỉ lục của giải đấu. Ngoại hạng anh là một giải đấu lớn, hấp dẫn nhất trong số những giải đấu hấp dẫn. Việc Liverpool thống trị tuyệt đối mùa giải vừa rồi, hay Man Utd mùa 98&amp;frasl;99 có là minh chứng cho việc giải đấu tẻ nhạt, dễ đoán định.</description>
     </item>
     
     <item>
