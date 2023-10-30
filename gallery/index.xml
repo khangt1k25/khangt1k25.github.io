@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on khangruni</title>
+    <link>https://khangt1k25.github.io/gallery/</link>
+    <description>Recent content in Gallery on khangruni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Khangruni ©</copyright>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://khangt1k25.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kalapa</title>
+      <link>https://khangt1k25.github.io/gallery/kalapa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khangt1k25.github.io/gallery/kalapa/</guid>
+      <description>My journey in Kalapa</description>
+    </item>
+    
+  </channel>
+</rss>
