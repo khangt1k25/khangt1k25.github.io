@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library_tags on Hei world, it&#39;s Khang</title>
+    <link>https://www.example.com/library_tags/</link>
+    <description>Recent content in Library_tags on Hei world, it&#39;s Khang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Khangruni ©</copyright>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.com/library_tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mindset</title>
+      <link>https://www.example.com/library_tags/mindset/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/library_tags/mindset/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
