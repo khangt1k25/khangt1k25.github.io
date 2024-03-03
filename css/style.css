@@ -342,7 +342,7 @@ img.lazyload:not([src]) {
 /* Responsive adjustments */
 @media screen and (max-width: 768px) {
   .fj-gallery-item {
-    width: calc(50% - 10px);
+    width: calc(30% - 10px);
   }
 }
 
