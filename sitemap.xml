@@ -2,25 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://khangt1k25.github.io/tech/api_gateway_aws/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://khangt1k25.github.io/tech/api_gateway/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khangt1k25.github.io/gallery/kalapa/</loc>
   </url><url>
-    <loc>https://khangt1k25.github.io/tech_tags/api-gateway/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://khangt1k25.github.io/tech_tags/backend/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://khangt1k25.github.io/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://khangt1k25.github.io/tech_tags/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <loc>https://khangt1k25.github.io/book/all_the_light_we_cannot_see/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khangt1k25.github.io/book_tags/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book/david_and_goliath/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book/educated/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book_tags/education/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book/inspired/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book_tags/love/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book_tags/mindset/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book_tags/motivation/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book_tags/story/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book/the_nightingale/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book/the_tipping_point/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book/think_again/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/book_tags/war/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/tech_tags/api-gateway/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/tech_tags/aws/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/tech_tags/backend/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://khangt1k25.github.io/tech_tags/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khangt1k25.github.io/garden/can_i_get_boths/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
@@ -32,9 +77,6 @@
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khangt1k25.github.io/garden_tags/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://khangt1k25.github.io/book_tags/mindset/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://khangt1k25.github.io/book/rework/</loc>
@@ -88,7 +130,7 @@
     <loc>https://khangt1k25.github.io/garden/29_2/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://khangt1k25.github.io/garden/eithad_memory/</loc>
+    <loc>https://khangt1k25.github.io/garden/etihad_memory/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
 </urlset>
